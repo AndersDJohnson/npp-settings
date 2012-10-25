@@ -1,0 +1,3 @@
+[submodule "themes/adjohnson916.notepad-plus-plus-colors-solarized"]
+	path = themes/adjohnson916.notepad-plus-plus-colors-solarized
+	url = https://github.com/adjohnson916/notepad-plus-plus-colors-solarized.git
